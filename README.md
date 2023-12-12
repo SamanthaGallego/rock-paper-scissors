@@ -11,6 +11,17 @@ At the end of each round, the option to play again is offered. Enter 'y' to cont
 
 Immerse yourself in the fun of this classic decision and strategy game with a friend!
 
+## 🎮 Try My Rock, Paper, Scissors Game! 🎮
+Ready to play? Just click the link below and dive into the fun of this classic decision-making game. I hope you enjoy playing as much as I enjoyed creating it!
+
+Play here on repl.it!
+https://replit.com/@gallegosamantha/rock-paper-scisors
+
+Have fun and feel free to leave your feedback! 😊👾
+
+#Coding #GameDev #Python #InteractiveFun
+
+## Code Walkthrough: Unveiling the Logic Behind the Game
 To understand a little more how this code works, I am going to explain it to you step by step.
 
 ### Step 1: Import the getpass Function from the getpass Library
