@@ -1,4 +1,4 @@
-# ROCK PAPER SCISORS
+# ROCK PAPER SCISSORS
 This project is a version of the classic Rock, Paper, Scissors game designed for two players. Both players have the opportunity to choose between rock ('r'), paper ('p') or scissors ('s'). After each election, the program determines the winner based on the fundamental rules of the game.
 
 The rules are simple:
